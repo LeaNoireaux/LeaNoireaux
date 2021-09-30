@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi I'm Léa ! 
 
-<!--
-**LeaNoireaux/LeaNoireaux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![photo de moi](20210803_105715_2.jpg)
 
-Here are some ideas to get you started:
+🙎‍♀️ **ABOUT ME** : 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👨‍🎓 Engineering student at ESILV 4th year - Health Biotech - Paris La Défense
+
+💪 Athletic 🎾 🚣‍♂️   
+
+🐈 Love animals
+
+🎧 Passionate about korean culture
+
+📫 How to reach me : noireaux.lea@gmail.com
+
+
